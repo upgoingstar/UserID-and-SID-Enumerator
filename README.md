@@ -12,8 +12,8 @@ Enumerator.py is a small utility which can be used to find out User IDs and SIDs
 To get a list of basic options and switches use:
 
 
-Usage: ------------------------------------------------------------------  
-enumerator.py	[OPTIONS]	Values  
+##Usage:   
+> enumerator.py	[OPTIONS]	Values  
   
 Use -h or --help for more information  
   

@@ -18,10 +18,10 @@ enumerator.py	[OPTIONS]	Values
 Use -h or --help for more information  
   
 Options:  
-  \t-h, --help  show this help message and exit  
-  \t-f FUNC     Lists down all UserIds and SIDs in the system, [-f enum]  
-  \t-u USER     Identifies the SID for the UserID provided, [-u <userId> ]  
-  \t-s SID      Identifies the UserID for the SID provided, [-s <sid> ]
+  -h, --help  show this help message and exit  
+  -f FUNC     Lists down all UserIds and SIDs in the system, [-f enum]  
+  -u USER     Identifies the SID for the UserID provided, [-u <userId> ]  
+  -s SID      Identifies the UserID for the SID provided, [-s <sid> ]
   
 In case you have any suggestions, query, etc., feel free to reach me at:  
 <b>Email:</b> upgoingstaar@gmail.com   |   <b>Twitter:</b> @upgoingstar   |   [http://3ncrypt0r.blogspot.com](http://3ncrypt0r.blogspot.com)
